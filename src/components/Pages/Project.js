@@ -19,7 +19,7 @@ function Project() {
                 {/* project one */}
                 <div className="projs">
                     <div className="img">
-                        <img src={bigbasekthero} alt="movies" />
+                        <img src={juicyheroimg} alt="movies" />
                     </div>
                     <div className="title">
                        Juicy Chemistry Clone
@@ -41,7 +41,7 @@ function Project() {
                  {/* project two */}
                  <div className="projs">
                     <div className="img">
-                        <img src={juicyheroimg} alt="movies" />
+                        <img src={bigbasekthero} alt="movies" />
                     </div>
                     <div className="title">
                        BigBasket Clone
