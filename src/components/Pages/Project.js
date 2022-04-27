@@ -5,6 +5,7 @@ import juicyheroimg from "../images/juicy hero image.png"
 import bigbasekthero from "../images/bigbasket hero.jpeg"
 import githubhero from "../images/Mini Github.png"
 import weatherhero from "../images/weatherhero.png"
+import grubhero from "../images/GrubHub Hero.png"
 
 function Project() {
     return (
@@ -16,28 +17,31 @@ function Project() {
                 </div>
             </div>
             <div className="container">
-                {/* project one */}
-                <div className="projs">
+            <div className="projs">
                     <div className="img">
-                        <img src={juicyheroimg} alt="movies" />
+                        <img src={grubhero} alt="movies" />
                     </div>
                     <div className="title">
-                       Juicy Chemistry Clone
+                    Grubhub Clone
                     </div>
                     <div className="projinfo">
-                    A web application for skin remedial products.<br/>
-                    Tech Stack: HTML | CSS | Javascript | DOM | LocalStorage
+                    A web application for ordering food online<br/>
+                    Tech Stack: HTML | CSS | JavaScript | React | Material Ui |
+localStorage | Nodejs | Expressjs | Mongodb| GoogleAuth |
+Mongoose | JWT | Redux
                     </div>
                      <div className='flex'>
                      <div className="projlinks">
-                        <a href="https://juicy-chemistry-clone1.vercel.app/" target={"_blank"}>Live</a>
+                        <a href="https://grubhub-clone-project.vercel.app/" target={"_blank"}>Live</a>
                     </div>
                     <div className="projlinks">
-                        <a href="https://github.com/Iqbal0786/Juicy_Chemistry_Clone1" target={"_blank"}>GitHub</a>
+                        <a href="https://github.com/kajalG-97/GRUBHUB-CLONE-PROJECT" target={"_blank"}>GitHub</a>
                     </div>
                      </div>
                 </div>
 
+                {/* project one */}
+              
                  {/* project two */}
                  <div className="projs">
                     <div className="img">
@@ -63,21 +67,21 @@ function Project() {
                  {/* project three */}
                  <div className="projs">
                     <div className="img">
-                        <img src={githubhero} alt="movies" />
+                        <img src={juicyheroimg} alt="movies" />
                     </div>
                     <div className="title">
-                     Mini Github 
+                       Juicy Chemistry Clone
                     </div>
                     <div className="projinfo">
-                    A web application which is used to find the repos of the user<br/>
-                    Tech Stack: HTML | CSS | Javascript | DOM | GitHub API
+                    A web application for skin remedial products.<br/>
+                    Tech Stack: HTML | CSS | Javascript | DOM | LocalStorage
                     </div>
                      <div className='flex'>
                      <div className="projlinks">
-                        <a href="https://my-mini-git-hub-v1.vercel.app/" target={"_blank"}>Live</a>
+                        <a href="https://juicy-chemistry-clone1.vercel.app/" target={"_blank"}>Live</a>
                     </div>
                     <div className="projlinks">
-                        <a href="https://github.com/Iqbal0786/my_mini_gitHub_v1" target={"_blank"}>GitHub</a>
+                        <a href="https://github.com/Iqbal0786/Juicy_Chemistry_Clone1" target={"_blank"}>GitHub</a>
                     </div>
                      </div>
                 </div>
