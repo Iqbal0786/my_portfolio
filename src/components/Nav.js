@@ -27,7 +27,7 @@ function Nav() {
           <li onClick={closeMobileMenu}> <a href="#bottom">Contact</a> </li>
 
           <li className="navvs" onClick={closeMobileMenu}>
-            <a target="_blank" rel="noreferrer" href={"https://drive.google.com/file/d/11iZvy7zVxHvS9TfYnO65qOEQpEUe1QJ2/view?usp=sharing"}>
+            <a target="_blank" rel="noreferrer" href={"https://drive.google.com/file/d/1Gy_1AJXUW7M3sjZ2_lIs5pL2Ng0psCA3/view?usp=sharing"}>
               Resume
             </a>
           </li>
