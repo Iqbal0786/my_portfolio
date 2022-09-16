@@ -45,21 +45,21 @@ Mongoose | JWT | Redux
                  {/* project two */}
                  <div className="projs">
                     <div className="img">
-                        <img src={bigbasekthero} alt="movies" />
+                        <img src="https://user-images.githubusercontent.com/63330022/187656177-06786825-4558-4504-b8e4-c9631d7b1531.png" alt="movies" />
                     </div>
                     <div className="title">
-                       BigBasket Clone
+                       TeeRex Store 
                     </div>
                     <div className="projinfo">
-                    A web application to buy groceries online.<br/>
-                    Tech Stack: HTML | CSS | Javascript | DOM | LocalStorage |MongoDb | Express | Mongoose | NPM |JWT | O Auth etc.
+                    An online coding challenge on Geektrus.com.<br/>
+                    Tech Stack: HTML | CSS | Javascript |React| Redux |Redux-thunk | API | 
                     </div>
                      <div className='flex'>
                      <div className="projlinks">
-                        <a href="https://bigbasket-clone-v2.vercel.app/" target={"_blank"}>Live</a>
+                        <a href="https://teerex-store-rho.vercel.app/" target={"_blank"}>Live</a>
                     </div>
                     <div className="projlinks">
-                        <a href="https://github.com/Iqbal0786/Bigbasket_Clone_v2" target={"_blank"}>GitHub</a>
+                        <a href="https://github.com/Iqbal0786/teerex-store" target={"_blank"}>GitHub</a>
                     </div>
                      </div>
                 </div>
