@@ -51,7 +51,8 @@ Mongoose | JWT | Redux
                        TeeRex Store 
                     </div>
                     <div className="projinfo">
-                    An online coding challenge on Geektrus.com.<br/>
+                    An online coding challenge on Geektrus.com<br/>
+                    <i>Achievement :</i> Got 94 marks with several badges.<br/>
                     Tech Stack: HTML | CSS | Javascript |React| Redux |Redux-thunk | API | 
                     </div>
                      <div className='flex'>
